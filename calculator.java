@@ -13,7 +13,6 @@ public class calculator {
         double b = sc.nextDouble();
 
         System.out.println("\n===== RESULTS =====");
-        
         System.out.println("Addition       : " + (a + b));
         System.out.println("Subtraction    : " + (a - b));
         System.out.println("Multiplication : " + (a * b));
